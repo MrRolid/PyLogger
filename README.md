@@ -9,6 +9,7 @@ a CSV measurement log.
 
 Typical use case: lab instrument software, vendor utilities or legacy
 tools that show a live reading on screen but offer no way to record it.
+<img width="575" height="781" alt="pylogger" src="https://github.com/user-attachments/assets/a95f9dec-27dd-40ef-b653-2d4a34e9b7b4" />
 
 ## Features
 
